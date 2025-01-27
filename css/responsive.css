@@ -1,0 +1,11 @@
+@media (max-width: 800px) {
+    /*apparence différente pour une page inférieure à 800px*/
+    }
+    
+    @media (max-width: 1000px) and (min-width :800px){
+    /*apparence différente pour une page comprise entre 800px et 1000px*/
+    }
+    
+    @media (min-width :1800px){
+    /*apparence différente pour une page supérieure à 1800px*/
+    }

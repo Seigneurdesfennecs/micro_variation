@@ -1,0 +1,594 @@
+body{
+  height: 300vh; 
+}
+
+main{
+  position : fixed;
+  height: 100vh;
+  width: 100vw;
+}
+
+/* ne pas toucher aux éléments ci-dessus. On travail c'est ce qui permet d'avoir une page que l'on peut 
+"scroller" mais qui visuellement ne bouge pas. */
+
+element.style {
+  top: 83px;
+    position: absolute;
+    left: 228px;
+}
+
+
+#b1{
+  position: absolute;
+  z-index: 1;
+  left: -133px;
+  top: -126.49px;
+  width: 2964px;
+  height: 1731px;
+
+}
+
+#vi{
+  position: absolute;
+  z-index: 3;
+ opacity: 0.15;
+  left: 4vw;
+  top: 3vw;
+  width: 98vw;
+  height: 60vw;
+}
+
+
+
+#vs{
+  position: absolute;
+  z-index: 3;
+  opacity: 1; 
+  left: -5vw;
+  top: -4.49vw;
+  width: 100vw;
+  height: 57vw;
+}
+#vi1{
+  position: absolute;
+  z-index: 4;
+ opacity: 1;
+  left: 4vw;
+  top: 3vw;
+  width: 98vw;
+  height: 60vw;
+}
+
+
+
+#vs1{
+  position: absolute;
+  z-index: 4;
+  opacity: 1;
+  left: -5vw;
+  top: -4.49vw;
+  width: 100vw;
+  height: 57vw;
+}
+#vi2{
+  position: absolute;
+  z-index: 5;
+ opacity: 1;
+  left: 4vw;
+  top: 3vw;
+  width: 98vw;
+  height: 60vw;
+}
+
+
+
+#vs2{
+  position: absolute;
+  z-index: 5;
+  left: -5vw;
+  opacity:1;
+  top: -4.49vw;
+  width: 100vw;
+  height: 57vw;
+}
+#vi3{
+  position: absolute;
+  z-index: 6;
+ opacity: 1;
+  left: 4vw;
+  top: 3vw;
+  width: 98vw;
+  height: 60vw;
+}
+
+
+#vs3{
+  position: absolute;
+  z-index: 6;
+opacity: 1;
+  left: -5vw;
+  top: -4.49vw;
+  width: 100vw;
+  height: 57vw;
+}
+#vi4{
+  position: absolute;
+  z-index: 6;
+ opacity: 1;
+  left: 4vw;
+  top: 3vw;
+  width: 98vw;
+  height: 60vw;
+}
+
+
+#vs4{
+  position: absolute;
+  z-index: 6;
+opacity: 1;
+  left: -5vw;
+  top: -4.49vw;
+  width: 100vw;
+  height: 57vw;
+}
+#principale {
+  position: absolute;
+  left: 9.56vw;
+  top: -4.49vw;
+  width: 86vw;
+  transform: matrix(0.99, 0.12, -0.12, 0.99, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-721279a3ce8c) no-repeat center center / cover;
+  border-radius: 0px;
+  z-index: 2;
+}
+
+#f3 {
+  position: absolute;
+  left: 98.31vw;
+  top: 1.61vw;
+  width: 81px;
+  height: 80px;
+  transform: matrix(0.87, 0.48, -0.48, 0.87, -0.00, -0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-7214270dae6e) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f4 {
+  position: absolute;
+  left: 24.19vw;
+  top: 42.03vw;
+  width: 97px;
+  height: 58px;
+  transform: matrix(1.00, 0.04, -0.04, 1.00, -0.00, -0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-72146f4a25e6) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f5 {
+  position: absolute;
+  left: 17.89vw;
+   top: 32.8vw;
+  width: 111px;
+  height: 88px;
+  transform: matrix(0.64, -0.77, 0.77, 0.64, -0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-72146cd02ba1) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f6 {
+  position: absolute;
+  left: 27.25vw;
+  top: 37.82vw;
+  width: 117px;
+  height: 93px;
+  transform: matrix(0.99, 0.11, -0.11, 0.99, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-721468a0bf36) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f7 {
+  position: absolute;
+  left: 43.42vw;
+  top: 25.58vw;
+  width: 196px;
+  height: 171px;
+  transform: matrix(0.98, 0.21, -0.21, 0.98, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-7214669663ea) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f8 {
+  position: absolute;
+  left: 68.7vw;
+  top: 21.29vw;
+  width: 93px;
+  height: 139px;
+  transform: matrix(1.00, 0.10, -0.10, 1.00, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-72146434aceb) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f9 {
+  position: absolute;
+  left: 25.85vw;
+  top: 31.77vw;
+  width: 67px;
+  height: 53px;
+  transform: matrix(0.26, -0.97, 0.97, 0.26, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-72145fbfb36a) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f10 {
+  position: absolute;
+  left: 61vw;
+  top: 15vw;
+  width: 69px;
+  height: 46px;
+  transform: matrix(0.99, 0.13, -0.13, 0.99, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-72145c38aa03) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f11 {
+  position: absolute;
+  left: 78vw;
+    top: 16vw;
+  width: 127px;
+  height: 131px;
+  transform: matrix(0.99, 0.14, -0.14, 0.99, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-7214558f3b09) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+#f12 {
+  position: absolute;
+  left: 52.93vw;
+  top: 15vw;
+  width: 152px;
+  height: 90px;
+  transform: matrix(0.97, 0.25, -0.25, 0.97, -0.00, -0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-721458ddc392) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 800px) {
+  /*apparence différente pour une page inférieure à 800px*/
+ /* element.style{
+  top: 1155px;
+  transform: rotate(-63deg);
+  left: -563px;
+  position: absolute;
+  }*/
+  #principale {
+    position: absolute;
+    left: -10vw;
+    top: 20vw;
+    width: 109vw;
+   
+    transform: matrix(0.54, -0.84, 0.84, 0.54, 0.00, -0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef99fbed) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+  }
+  
+  #f3 {
+    position: absolute;
+    
+    left: 41vw;
+    top: -7vw;
+    height: 5vw;
+    width: 5vw;
+  transform: matrix(0.82, -0.57, 0.57, 0.82, 0.00, -0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef76384a) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+  }
+  
+  #f4 {
+    position: absolute;
+    left: 30vw;
+    top: 4vw;
+    width: 8vw;
+    height: 5vw;
+    transform: matrix(0.48, -0.88, 0.88, 0.48, -0.00, -0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef5d4c2c) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+  }
+  
+  #f5 {
+    position: absolute;
+    left: 27vw;
+    top: 27vw;
+    height: 6vw;
+    width: 6vw;
+  transform: matrix(-0.40, -0.92, 0.92, -0.40, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef5b87e1) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+  }
+  
+  #f6 {
+    position: absolute;
+    left: 28vw;
+    top: 96vw;
+    height: 6vw;
+    width: 6vw;
+  transform: matrix(0.54, -0.84, 0.84, 0.54, 0.00, 0.00);
+  background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef7c85f5) no-repeat center center / cover;
+  border-radius: 0px;  z-index: 2;
+  }
+  
+  #f7 {
+    position: absolute;
+    left: 39vw;
+    top: 61vw;
+    height: 11vw;
+    width: 11vw;
+    transform: matrix(0.63, -0.78, 0.78, 0.63, -0.00, 0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef6ef94d) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+  }
+  
+  #f8 {
+    width: 9vw;
+    position: absolute;
+    left: 55vw;
+    top: 87vw;
+    height: 9vw;
+
+    transform: matrix(0.53, -0.85, 0.85, 0.53, 0.00, -0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef75730d) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+  }
+  
+  #f9 {
+  
+    height: 7vw;
+        width: 7vw;
+        position: absolute;
+        left: 56vw;
+        top: 99vw;
+      transform: matrix(-0.75, -0.66, 0.66, -0.75, 0.00, 0.00);
+      background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef6e134e) no-repeat center center / cover;
+      border-radius: 0px;  z-index: 2;
+  }
+  
+  #f10 {
+    position: absolute;
+    left: 50vw;
+    top: 36vw;
+    height: 4vw;
+    width: 4vw;
+    transform: matrix(0.55, -0.83, 0.83, 0.55, -0.00, 0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef63135a) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+  }
+  
+  #f11 {
+    position: absolute;
+    left: 28vw;
+    top: 42vw;
+    height: 10vw;
+    width: 10vw;
+    transform: matrix(0.56, -0.83, 0.83, 0.56, 0.00, -0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef649a91) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+  }
+  
+  #f12 {
+    position: absolute;
+    left: 45vw;
+    top: 17vw;
+    height: 10vw;
+    width: 10vw;
+
+    transform: matrix(0.66, -0.75, 0.75, 0.66, 0.00, -0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef7d3434) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+
+  }
+  .i{
+  
+    position: absolute;
+    transform: rotate(91deg);
+
+    left: -35vw;
+    top: 16vw;
+    width: 150vw;
+    height: 88vw;
+  }
+  
+  
+  .s{
+    position: absolute;
+   
+    transform: rotate(90deg);
+    left: 9vw;
+    top: 14.51vw;
+    width: 115vw;
+    height: 75vw;
+  }
+  
+  
+}
+
+
+
+
+
+
+
+  
+  
+  @media (max-width: 1300px) and (min-width :800px){
+    #principale {
+      position: absolute;
+      left: 9.56vw;
+      top: -4.49vw;
+      width: 86vw;
+      transform: matrix(0.99, 0.12, -0.12, 0.99, 0.00, 0.00);
+     
+      background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-7320550e11ce) no-repeat center center / cover;
+      border-radius: 0px;  z-index: 2;
+    }
+    
+    #f3 {
+      position: absolute;
+      
+      left: 80vw;
+      top: 17vw;
+      height: 4vw;
+      width: 4vw;
+
+    transform: matrix(0.82, -0.57, 0.57, 0.82, 0.00, -0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef76384a) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+    }
+    
+    #f4 {
+      position: absolute;
+      left: 42vw;
+      top: 45vw;
+      width: 4vw;
+      height: 4vw;
+      transform: matrix(0.48, -0.88, 0.88, 0.48, -0.00, -0.00);
+      background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef5d4c2c) no-repeat center center / cover;
+      border-radius: 0px;  z-index: 2;
+    }
+    
+    #f5 {
+      position: absolute;
+      left: 35vw;
+      top: 16vw;
+      height: 5vw;
+      width: 5vw;
+    transform: matrix(-0.40, -0.92, 0.92, -0.40, 0.00, 0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef5b87e1) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+    }
+    
+    #f6 {
+      position: absolute;
+      left: 54vw;
+      top: 11vw;
+      height: 6vw;
+      width: 6vw;
+    transform: matrix(0.54, -0.84, 0.84, 0.54, 0.00, 0.00);
+    background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef7c85f5) no-repeat center center / cover;
+    border-radius: 0px;  z-index: 2;
+    }
+    
+    #f7 {
+      position: absolute;
+      left: 39vw;
+      top: 4vw;
+      height: 11vw;
+      width: 10vw;
+      transform: matrix(0.63, -0.78, 0.78, 0.63, -0.00, 0.00);
+      background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef6ef94d) no-repeat center center / cover;
+      border-radius: 0px;  z-index: 2;
+    }
+    
+    #f8 {
+      width: 7vw;
+      position: absolute;
+      left: 50vw;
+      top: 43vw;
+      height: 7vw;
+      transform: matrix(0.53, -0.85, 0.85, 0.53, 0.00, -0.00);
+      background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef75730d) no-repeat center center / cover;
+      border-radius: 0px;  z-index: 2;
+    }
+    
+    #f9 {
+    
+      height: 5vw;
+      width: 5vw;
+      position: absolute;
+      left: 61vw;
+      top: 42vw;
+        transform: matrix(-0.75, -0.66, 0.66, -0.75, 0.00, 0.00);
+        background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef6e134e) no-repeat center center / cover;
+        border-radius: 0px;  z-index: 2;
+    }
+    
+    #f10 {
+      position: absolute;
+      left: 68vw;
+        top: 35vw;
+        height: 2vw;
+        width: 4vw;
+      transform: matrix(0.55, -0.83, 0.83, 0.55, -0.00, 0.00);
+      background: url(https://design.penpot.app/assets/by-file-media-id/457b45e4-f76c-811d-8005-731eef63135a) no-repeat center center / cover;
+      border-radius: 0px;  z-index: 2;
+    }
+    
+    #f11 {
+      position: absolute;
+      position: absolute;
+      left: 64vw;
+      top: 38vw;
+      height: 11vw;
+      width: 9vw;
+      transform: rotate(329deg);
+      background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef649a91) no-repeat center center / cover;
+      border-radius: 0px;  z-index: 2;
+    }
+    
+    #f12 {
+      position: absolute;
+      left: 31vw;
+      top: 5vw;
+      height: 4vw;
+      width: 10vw;
+      transform: rotate(92deg);
+      background: url(https://design.penpot.app/assets/by-file-media-id/00c92ba6-454d-8098-8005-731eef7d3434) no-repeat center center / cover;
+      border-radius: 0px;  z-index: 2;
+    }
+
+     /* .i{
+  
+        position: absolute;
+        transform: rotate(91deg);
+        z-index: 8;
+        left: -35vw;
+        top: 16vw;
+        width: 150vw;
+        height: 88vw;
+      }
+      
+      
+      .s{
+        position: absolute;
+        z-index: 8;
+        transform: rotate(91deg);
+        left: 9vw;
+        top: 14.51vw;
+        width: 115vw;
+        height: 75vw;
+      }*/
+
+
+
+    }
+  /*apparence différente pour une page comprise entre 800px et 1000px*/
+ 
+  
+  @media (min-width :1800px){
+  /*apparence différente pour une page supérieure à 1800px*/
+  }

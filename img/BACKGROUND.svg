@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2720.98 1628.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Dégradé_sans_nom_37);
+        stroke-width: 0px;
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_37" data-name="Dégradé sans nom 37" x1="2416.87" y1="1430.26" x2="157.61" y2="122.85" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#b36f45"/>
+      <stop offset=".05" stop-color="#b26e44"/>
+      <stop offset=".14" stop-color="#845539"/>
+      <stop offset=".19" stop-color="#734b35"/>
+      <stop offset=".21" stop-color="#694531"/>
+      <stop offset=".25" stop-color="#57392c"/>
+      <stop offset=".3" stop-color="#4b3128"/>
+      <stop offset=".37" stop-color="#442d25"/>
+      <stop offset=".52" stop-color="#422c25"/>
+      <stop offset=".63" stop-color="#452e26"/>
+      <stop offset=".72" stop-color="#503529"/>
+      <stop offset=".81" stop-color="#62402f"/>
+      <stop offset=".9" stop-color="#7c5037"/>
+      <stop offset=".98" stop-color="#9c6542"/>
+      <stop offset="1" stop-color="#a46a45"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" x="78.38" y="98.22" width="2560" height="1439"/>
+</svg>
